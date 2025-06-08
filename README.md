@@ -1,17 +1,17 @@
-# Hi, I'm Roman (stanislavskyir) — Fullstack Developer 👋
+# Hi, I'm Roman (stanislavskyir) — Fullstack Developer 
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 📍 Based in Kamianske, Ukraine  
-- 🎂 I'm 22 years old  
-- 💡 Passionate about **backend development in Java** and **Android app development**  
-- 🏦 I specialize in building **modern, scalable, and secure banking and enterprise applications**
+-  Based in Kamianske, Ukraine  
+-  I'm 22 years old  
+-  Passionate about **backend development in Java** and **Android app development**  
+-  I specialize in building **modern, scalable, and secure banking and enterprise applications**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### ⚙️ Core Languages & Backend
+###  Core Languages & Backend
 
 - **Languages:** Java, Kotlin, Python  
 - **Frameworks & Tools:** Spring Boot (MVC, Data JPA, Validation, REST), Hibernate  
@@ -22,7 +22,7 @@
 
 ---
 
-### 📱 Android Development
+###  Android Development
 
 - **Languages:** Kotlin, Java  
 - **UI & Frameworks:** Jetpack Compose, Material 3, XML  
@@ -34,7 +34,7 @@
 
 ---
 
-### ⚙️ DevOps & Observability
+###  DevOps & Observability
 
 - **Containerization:** Docker, Kubernetes  
 - **CI/CD:** GitHub Actions, GitLab CI/CD  
@@ -42,7 +42,7 @@
 
 ---
 
-### 🛠️ Build Tools & Project Management
+###  Build Tools & Project Management
 
 - **Build Systems:** Maven, Gradle  
 - **Version Control:** Git  
@@ -52,14 +52,14 @@
 
 ---
 
-### 🧪 Testing
+###  Testing
 
 - **Frameworks:** JUnit 5, Mockito, Testcontainers  
 - **Types:** Unit Testing, Integration Testing (IT)  
 
 ---
 
-### 🧠 Computer Science & Principles
+###  Computer Science & Principles
 
 - **Principles:** Clean Code, OOP, SOLID, Design Patterns  
 - **Fundamentals:** Multithreading, Data Structures & Algorithms  
@@ -67,7 +67,7 @@
 
 ---
 
-### 💾 Database & Caching
+###  Database & Caching
 
 - **Relational DBs:** PostgreSQL, MySQL, H2  
 - **NoSQL:** MongoDB  
