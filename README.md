@@ -2,6 +2,7 @@
 
 About Me:
   📍 Based in Kamianske, Ukraine
+  
   💡 I'm 22 years old, passionate about backend development in Java and mobile app development for Android.
   🚀 I specialize in building modern, scalable, and secure banking and enterprise applications.
 
